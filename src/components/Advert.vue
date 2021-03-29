@@ -53,30 +53,30 @@ export default {
 .advert_grid-cell1 {
   grid-column: 1/3;
   grid-row: 1/3;
-  background-image: url("../images/advert1.png");
+  background-image: url("../images/action1.png");
 }
 
 .advert_grid-cell2 {
-  background-image: url("../images/advert2.png");
+  background-image: url("../images/action2.png");
 }
 
 .advert_grid-cell3 {
-  background-image: url("../images/advert3.png");
+  background-image: url("../images/action3.png");
 }
 
 .advert_grid-cell4 {
   grid-column: 1/2;
-  background-image: url("../images/advert4.png");
+  background-image: url("../images/action4.png");
 }
 
 .advert_grid-cell5 {
   grid-column: 2/3;
-  background-image: url("../images/advert5.png");
+  background-image: url("../images/action5.png");
 }
 
 .advert_grid-cell6 {
   grid-column: 3/5;
   grid-row: 2/4;
-  background-image: url("../images/advert6.png");
+  background-image: url("../images/action6.png");
 }
 </style>
